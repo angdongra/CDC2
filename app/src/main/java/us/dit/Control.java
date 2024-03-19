@@ -10,6 +10,10 @@ public class Control {
         
    public static int operacion(int a, int b) {
         return a*b;
-   }    
+   } 
+   
+   public static int operacion2(int a, int b) {
+       return a/b;
+  } 
   
 }
